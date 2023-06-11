@@ -1,0 +1,20 @@
+
+
+{{> menu active="dashboard"}}
+
+<section class="section">
+  <div class="content">
+  <h2 class = "title is-3 mb-6">
+    Welcome to the Playlist App Dashboard!
+  </h2>
+  <p class="subtitle is-5 mb-6">
+    This is the place where you can manage your playlists and add your songs.
+  </p>
+  <ol type="1">
+    <li>Enter the name of your Playlist</li>
+    <li>Click on Add Playlist</li>
+  </ol>
+  </div>
+  {{> list-playlists}}
+  {{> add-playlist}}
+</section>

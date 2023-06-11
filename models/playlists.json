@@ -1,0 +1,13 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "Jorge Ben jor",
+      "_id": "c1067ae0-5425-4807-a47b-a5e5438ffb11"
+    },
+    {
+      "title": "Antonio Jobim",
+      "_id": "296e84a9-4b33-4cba-beb6-a79355cc13f7"
+    }
+  ]
+}
